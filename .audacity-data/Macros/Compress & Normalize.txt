@@ -1,0 +1,3 @@
+SelTrackStartToEnd:
+Compressor:AttackTime="0.2" NoiseFloor="-30" Normalize="1" Ratio="2" ReleaseTime="1" Threshold="-12" UsePeak="1"
+Normalize:ApplyGain="1" PeakLevel="-3" RemoveDcOffset="1" StereoIndependent="1"

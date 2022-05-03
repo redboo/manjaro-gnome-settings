@@ -1,0 +1,265 @@
+{
+    "files.associations": {
+        "*.tml": "html",
+        "*.log.*": "log"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": false
+    },
+    "[log]": {
+        "editor.largeFileOptimizations": false
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        // "editor.defaultFormatter": "vscode.json-language-features"
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.editor.scrollToSwitchTabs": true,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "editor.fontLigatures": true,
+    "explorer.decorations.badges": false,
+    "auto-close-tag.SublimeText3Mode": true,
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#C6FF00",
+        "activityBar.activeBorder": "#C6FF00",
+        "list.activeSelectionForeground": "#C6FF00",
+        "list.inactiveSelectionForeground": "#C6FF00",
+        "list.highlightForeground": "#C6FF00",
+        "scrollbarSlider.activeBackground": "#C6FF0050",
+        "editorSuggestWidget.highlightForeground": "#C6FF00",
+        "textLink.foreground": "#C6FF00",
+        "progressBar.background": "#C6FF00",
+        "pickerGroup.foreground": "#C6FF00",
+        "tab.activeBorder": "#C6FF00",
+        "notificationLink.foreground": "#C6FF00",
+        "editorWidget.resizeBorder": "#C6FF00",
+        "editorWidget.border": "#C6FF00",
+        "settings.modifiedItemIndicator": "#C6FF00",
+        "settings.headerForeground": "#C6FF00",
+        "panelTitle.activeBorder": "#C6FF00",
+        "breadcrumb.activeSelectionForeground": "#C6FF00",
+        "menu.selectionForeground": "#C6FF00",
+        "menubar.selectionForeground": "#C6FF00",
+        "editor.findMatchBorder": "#C6FF00",
+        "selection.background": "#C6FF0040",
+        "statusBarItem.remoteBackground": "#C6FF00",
+        "[Material Theme Palenight High Contrast]": {
+            "activityBarBadge.background": "#388E3C",
+            "activityBar.activeBorder": "#388E3C",
+            "list.activeSelectionForeground": "#388E3C",
+            "list.inactiveSelectionForeground": "#388E3C",
+            "list.highlightForeground": "#388E3C",
+            "scrollbarSlider.activeBackground": "#388E3C50",
+            "editorSuggestWidget.highlightForeground": "#388E3C",
+            "textLink.foreground": "#388E3C",
+            "progressBar.background": "#388E3C",
+            "pickerGroup.foreground": "#388E3C",
+            "tab.activeBorder": "#388E3C",
+            "notificationLink.foreground": "#388E3C",
+            "editorWidget.resizeBorder": "#388E3C",
+            "editorWidget.border": "#388E3C",
+            "settings.modifiedItemIndicator": "#388E3C",
+            "settings.headerForeground": "#388E3C",
+            "panelTitle.activeBorder": "#388E3C",
+            "breadcrumb.activeSelectionForeground": "#388E3C",
+            "menu.selectionForeground": "#388E3C",
+            "menubar.selectionForeground": "#388E3C",
+            "editor.findMatchBorder": "#388E3C",
+            "selection.background": "#388E3C40",
+            "statusBarItem.remoteBackground": "#388E3C"
+        }
+    },
+    "materialTheme.accent": "Breaking Bad",
+    "editor.linkedEditing": true,
+    "editor.wordWrap": "on",
+    "files.autoSave": "onWindowChange",
+    "editor.maxTokenizationLineLength": 30000,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.autofetch": true,
+    "markdown-preview-enhanced.liveUpdate": true,
+    "git.confirmSync": false,
+    "codestream.email": "garda1@mail.ru",
+    "codestream.requestFeedbackOnCommit": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "markdown-links.graphType": "obsidian",
+    "html.format.wrapLineLength": 0,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook",
+        "*.csv": "default"
+    },
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 18,
+    "editor.lineHeight": 28,
+    "tabnine.experimentalAutoImports": true,
+    "files.exclude": {
+        "**/.git/": true
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
+    "thunder-client.codeSnippetLanguage": "python-requests",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.profiles.linux": {
+        "zsh (login)": {
+            "path": "/usr/bin/zsh",
+            "args": ["-l"]
+        }
+    },
+    "terminal.integrated.fontFamily": "'MesloLGS NF'",
+    "terminal.integrated.rightClickCopyPaste": true,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.formatOnSave": true,
+    "editor.autoIndent": "advanced",
+    "workbench.iconTheme": "material-icon-theme",
+    "projectManager.git.baseFolders": ["~/Code/"],
+    "vscode-edge-devtools.headless": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 2,
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "my-code-actions.actions": {
+        "[html]": {
+            "Create method {{atCursor:$1}} on submit": {
+                "file": "${fileBasenameNoExtension}.ts",
+                "atCursor": "\\(ngSubmit\\)=\"([^\"]+)\\(\\)\"",
+                "text": "  {{atCursor:$1}}() {\n  }\n\n",
+                "insertFind": "}",
+                "where": "beforeLast"
+            },
+            "Create method {{atCursor:$1}} on click": {
+                "file": "${fileBasenameNoExtension}.ts",
+                "atCursor": "\\(click\\)=\"([^\"]+)\\(\\)\"",
+                "text": "  {{atCursor:$1}}() {\n  }\n\n",
+                "insertFind": "}",
+                "where": "beforeLast"
+            }
+        }
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.suggest.preview": true,
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "editor.cursorStyle": "block",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "workbench.colorTheme": "Radical",
+    "workbench.layoutControl.enabled": true,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "log.error",
+                "settings": {
+                    "foreground": "#BF0000",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "log.warning",
+                "settings": {
+                    "foreground": "#BDE51A",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "log.info",
+                "settings": {
+                    "foreground": "#00BFBF",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "log.debug",
+                "settings": {
+                    "foreground": "#BFBFBF",
+                    "fontStyle": "bold"
+                }
+            }
+        ]
+    },
+    "logFileHighlighter.customPatterns": [
+        {
+            "pattern": "Verbose",
+            "foreground": "#22aa22"
+        },
+        {
+            "pattern": "E/\\w+",
+            "foreground": "#af1f1f",
+            "background": "#344323"
+        },
+        {
+            "pattern": "\\[.*\\]",
+            "background": "#333333"
+        }
+    ],
+    "jupyter.interactiveWindowMode": "perFile",
+    "autoDocstring.quoteStyle": "'''",
+    "editor.suggestSelection": "first",
+    "git-graph.graph.colours": [
+        "#FF428E",
+        "#A8FFEF",
+        "#DFF959",
+        "#F7A409",
+        "#F834BB",
+        "#2BF5E9",
+        "#D831D7",
+        "#FF594C"
+    ],
+    "window.titleBarStyle": "custom",
+    "telemetry.telemetryLevel": "off",
+    "vscode-edge-devtools.mirrorEdits": true,
+    "vscode-edge-devtools.fallbackRevision": "@a4ef99550e4c1fe41f566416dad266d7d69a9658",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.mouseWheelZoom": true,
+    "python.formatting.provider": "black",
+    // "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+    // "python.linting.pycodestyleEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.languageServer": "Pylance",
+    // "python.linting.pycodestyleArgs": [
+    //     "--max-line-length=40"
+    // ]
+    // "python.formatting.autopep8Args": [
+    //     "--max-line-length",
+    //     "200",
+    //     "--experimental"
+    // ],
+    // "python.linting.pycodestyleArgs": ["--max-line-length=79"],
+    "python.formatting.blackArgs": ["--line-length=79"],
+    "python.formatting.yapfArgs": [
+        "--style={based_on_style: google, column_limit: 79, indent_width: 4}"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "prettier.tabWidth": 4,
+    "togglequotes.chars": ["\"", "'", "`"],
+    "workbench.activityBar.visible": false,
+    "editor.wordBasedSuggestions": false,
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

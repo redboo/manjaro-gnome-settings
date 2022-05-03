@@ -1,0 +1,11 @@
+ZeroCross:
+Delete:
+StoreCursorPosition:
+SelectTime:End="0.5" RelativeTo="SelectionStart" Start="0"
+Copy:
+SelCursorStoredCursor:
+Paste:
+SelCursorStoredCursor:
+SelectTime:End="0.5" RelativeTo="SelectionStart" Start="0"
+ZeroCross:
+Silence:Use_Preset="<Current Settings>"

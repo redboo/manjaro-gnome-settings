@@ -1,0 +1,5 @@
+**.directory
+__pycache___
+bot.db
+python.log
+test
